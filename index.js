@@ -17,7 +17,7 @@ const io = require('socket.io')(server);
 var con = mysql.createConnection({
     host: hostname,
     user: "root",
-    password: "password",
+    password: "nmr0930",
     database: "OTProject"
   });
 
